@@ -90,7 +90,7 @@ body{
         width: 420px;
         background-color: #EEF1F7;
         padding: 20px 30px 20px 20px;
-        gap: ;
+       
     }
     .brands h3{
         font-size: 32px;
@@ -152,4 +152,58 @@ body{
       margin: 0 auto;
     }
 
+
+    /* third page */
+
+    .story .container{
+        margin: 0 auto;
+        width: 1300px;
+        background-color: #111827;
+        height: 448px;
+    }
+
+    .story .container .story-title{
+        width: 492px;
+        font-size: 46px;
+        padding-top: 95px;
+        padding-left: 44px;
+        color: #ffff;
+        
+    }
     
+
+    .story .container .story-undertitle{
+        width: 503px;
+        height: 76px;
+        font-size: 18px;
+        padding-top: 20px;
+        padding-left: 44px;
+        color: #FFFFFF;
+    }
+
+    .story .container .story-subtitle{
+        width: 195px;
+        height: 28px;
+        font-size: 18px;
+        font-weight: 400;
+        padding-top: 13px;
+        padding-left: 44px;
+        color: #FFFFFF;
+    }
+
+    .story .container .jacole-img{
+        padding-top: 30px;
+        padding-left: 44px;
+    }
+
+    .story .container .woman{
+        width: 608px;
+        height: 396px;
+        position: absolute;
+        right: 279px;
+        margin-top: -280px;  
+          
+    }
+
+    
+
